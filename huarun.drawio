@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T10:47:40.289Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="5ZYc8rSw_TZ9wdx49kCq" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T03:43:35.900Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="7Jth-Z-Lhi_pG23LIsL4" version="17.2.1" type="github">
   <diagram id="lrBe2s1Y0-TZEhEflH6y" name="第 1 页">
-    <mxGraphModel dx="2489" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2361" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,19 +91,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8PWxZ2ZOjzzuAVCmJEXS-36" value="&lt;font color=&quot;#000000&quot;&gt;杨杰协助部署工作&lt;br&gt;7-12&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-510" y="450" width="100" height="40" as="geometry" />
+          <mxGeometry x="-530" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8PWxZ2ZOjzzuAVCmJEXS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="8PWxZ2ZOjzzuAVCmJEXS-38" target="8PWxZ2ZOjzzuAVCmJEXS-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8PWxZ2ZOjzzuAVCmJEXS-38" value="范祥提供人员测试" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontColor=#000000;strokeColor=#FFCC99;fillColor=#FFCC99;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="535" width="107" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="8PWxZ2ZOjzzuAVCmJEXS-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="8PWxZ2ZOjzzuAVCmJEXS-40" target="8PWxZ2ZOjzzuAVCmJEXS-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8PWxZ2ZOjzzuAVCmJEXS-40" value="沟通流程熟悉" style="text;html=1;strokeColor=none;fillColor=#FF3333;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="25" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="-520" y="540" width="107" height="25" as="geometry" />
         </mxCell>
         <mxCell id="8PWxZ2ZOjzzuAVCmJEXS-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" target="8PWxZ2ZOjzzuAVCmJEXS-20" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -116,13 +110,13 @@
         <mxCell id="3v_MCyyfMN3TOqrQyFrj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3v_MCyyfMN3TOqrQyFrj-2" target="8PWxZ2ZOjzzuAVCmJEXS-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3v_MCyyfMN3TOqrQyFrj-2" value="7-13" style="text;html=1;strokeColor=none;fillColor=#FFFF66;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="40" width="60" height="30" as="geometry" />
+        <mxCell id="3v_MCyyfMN3TOqrQyFrj-2" value="7-13完成" style="text;html=1;strokeColor=none;fillColor=#FFFF66;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3v_MCyyfMN3TOqrQyFrj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3v_MCyyfMN3TOqrQyFrj-3" target="8PWxZ2ZOjzzuAVCmJEXS-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3v_MCyyfMN3TOqrQyFrj-3" value="7-13" style="text;html=1;strokeColor=none;fillColor=#FFFF66;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3v_MCyyfMN3TOqrQyFrj-3" value="7-13完成" style="text;html=1;strokeColor=none;fillColor=#FFFF66;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-510" y="145" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3v_MCyyfMN3TOqrQyFrj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3v_MCyyfMN3TOqrQyFrj-11" target="8PWxZ2ZOjzzuAVCmJEXS-7">
@@ -130,6 +124,15 @@
         </mxCell>
         <mxCell id="3v_MCyyfMN3TOqrQyFrj-11" value="7-13 plant必须调通" style="text;html=1;strokeColor=none;fillColor=#FF9933;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v_MCyyfMN3TOqrQyFrj-14" value="&lt;b&gt;&lt;br&gt;7-13任务：&lt;/b&gt;&lt;br&gt;1.&amp;nbsp;低代码现场二开服务部署【上午完成】&amp;nbsp;--&amp;nbsp;@jackli(李春校)&amp;nbsp;&amp;nbsp;&lt;br&gt;2.&amp;nbsp;低代码现场更新版本部署【上午完成】--&amp;nbsp;@jasonyang(杨杰)&amp;nbsp;&amp;nbsp;&lt;br&gt;3.&amp;nbsp;现场测试海康接口情况【下午】&amp;nbsp;--&amp;nbsp;@xinwenjie(辛文杰)&amp;nbsp;&amp;nbsp;&lt;br&gt;4.&amp;nbsp;评审双控剩余需求【上午完成】--&amp;nbsp;@markzou(邹强)&amp;nbsp;&amp;nbsp;&lt;br&gt;5.&amp;nbsp;新建流程验证【上午】&amp;nbsp;--&amp;nbsp;@linziyang(林梓扬)&amp;nbsp;&amp;nbsp;&lt;br&gt;6.&amp;nbsp;人员智能管控完成开发变更部分&amp;nbsp;--&amp;nbsp;@linziyang(林梓扬)&amp;nbsp;&amp;nbsp;&lt;br&gt;7.&amp;nbsp;双控流程完成，调试二开组件弹框功能&amp;nbsp;--&amp;nbsp;陈成团队&lt;br&gt;8.&amp;nbsp;完成plant嵌入，模型能导入而且能预览&amp;nbsp;--&amp;nbsp;@gongxinxin(巩新新)&amp;nbsp;&amp;nbsp;&lt;br&gt;9.&amp;nbsp;消息中心对接完成&amp;nbsp;--&amp;nbsp;@hanshuai(韩帅)&amp;nbsp;&amp;nbsp;@xinbolv(吕新波)&amp;nbsp;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="40" width="370" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3v_MCyyfMN3TOqrQyFrj-15" value="&lt;b&gt;&lt;br&gt;7-14任务：&lt;/b&gt;&lt;br&gt;1. 现场测试人员智能管控流程 -- 林梓扬、辛文杰&lt;br&gt;2. 智能双控功能完成 -- 陈成团队&amp;nbsp;&amp;nbsp;&lt;br&gt;3. 模型中心对接人员定位、两票、电子围栏 -- 巩新新&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="240" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3v_MCyyfMN3TOqrQyFrj-16" value="&lt;b&gt;&lt;br&gt;7-15任务：&lt;/b&gt;&lt;br&gt;1. 内部测试整体功能，页面优化&lt;br&gt;2. 现场部署更新" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="365" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
